@@ -1,0 +1,3 @@
+# C-Language
+Basic grounds of C Language having different functions to learn from.
+From Memory Allocation, while Loops and etc...
